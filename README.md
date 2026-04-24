@@ -5,7 +5,7 @@
 ##  Project Overview
 Developed an interactive sales dashboard using Power BI to analyze revenue, profit, and order trends across regions, categories, and customer segments.
 
-## 🔧 Tools & Technologies
+##  Tools & Technologies
 - Power BI
 - Power Query
 - DAX
